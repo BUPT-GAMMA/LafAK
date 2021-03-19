@@ -1,5 +1,8 @@
 # LafAK
-The code of paper "Adversarial Label-Flipping Attack and Defense for Graph Neural Networks" (ICDM 2020)
+The code of paper [Adversarial Label-Flipping Attack and Defense for Graph Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9338299) (ICDM 2020)
+
+# Usage
+python LafAK.py
 
 # Requirements
 - Python 3.6.7 
